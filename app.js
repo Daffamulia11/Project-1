@@ -1,0 +1,3 @@
+function allert() {
+    allert('hello')
+}
